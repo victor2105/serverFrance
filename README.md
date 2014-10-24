@@ -32,4 +32,4 @@
 
 # Protocole de la sérialisation
 ## Chaine
-
+> - "id_cmd | parametre1 | parametre2 | ... | parametreN"
